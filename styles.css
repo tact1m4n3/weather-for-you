@@ -1,0 +1,8 @@
+.title, .loading, .error, .weather {
+    text-align: center;
+}
+
+.loading, .weather-form, .weather, .error {
+    width: 50%;
+    margin: 0 auto;
+}
